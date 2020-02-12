@@ -1,0 +1,2 @@
+D:\C# Web Basic Exam Prep\src\Apps\Panda\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.AssemblyInfoInputs.cache
+D:\C# Web Basic Exam Prep\src\Apps\Panda\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.AssemblyInfo.cs
