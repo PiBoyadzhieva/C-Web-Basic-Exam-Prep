@@ -16,8 +16,8 @@ namespace SulsApp.Controllers
 {
     public class UsersController : Controller
     {
-        private IUsersService usersService;
-        private ILogger logger;
+        private readonly IUsersService usersService;
+        private readonly ILogger logger;
 
         public UsersController(IUsersService usersService, ILogger logger)
         {
