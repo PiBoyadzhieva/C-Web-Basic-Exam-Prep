@@ -52,6 +52,13 @@ namespace IRunes.Services
             return this.db.Users.Any(x => x.Email == email);
         }
 
+        public string GetUsername(string id)
+        {
+            //var username = this.db.Users.Where(x => x.Id == id).Select(x => x.Username).FirstOrDefault();
+            var user = this.db.Users.FirstOrDefault(x => x.Id == id);
+            return user?.Username;
+        }
+
         private string Hash(string input)
         {
             if (input == null)
