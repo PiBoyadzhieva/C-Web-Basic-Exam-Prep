@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Web Basic Exam Prep\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {}
+    "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {}
   },
   "projects": {
-    "D:\\C# Web Basic Exam Prep\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {
+    "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj",
+        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj",
         "projectName": "IRunes.Models",
-        "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj",
+        "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj",
         "packagesPath": "C:\\Users\\pikol\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\IRunes\\IRunes.Models\\obj\\",
+        "outputPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\IRunes\\IRunes.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

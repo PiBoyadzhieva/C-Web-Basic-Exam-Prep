@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj",
+      "projectUniqueName": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj",
       "projectName": "Musaca.Models",
-      "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj",
+      "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj",
       "packagesPath": "C:\\Users\\pikol\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Models\\obj\\",
+      "outputPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

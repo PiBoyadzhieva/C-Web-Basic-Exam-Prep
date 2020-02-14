@@ -3508,11 +3508,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Web Basic Exam Prep\\src\\Apps\\IRunes\\IRunes.Services\\IRunes.Services.csproj",
+      "projectUniqueName": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\IRunes\\IRunes.Services\\IRunes.Services.csproj",
       "projectName": "IRunes.Services",
-      "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\IRunes\\IRunes.Services\\IRunes.Services.csproj",
+      "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\IRunes\\IRunes.Services\\IRunes.Services.csproj",
       "packagesPath": "C:\\Users\\pikol\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\IRunes\\IRunes.Services\\obj\\",
+      "outputPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\IRunes\\IRunes.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3531,11 +3531,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\C# Web Basic Exam Prep\\src\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj": {
-              "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj"
+            "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj": {
+              "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\IRunes\\IRunes.Data\\IRunes.Data.csproj"
             },
-            "D:\\C# Web Basic Exam Prep\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {
-              "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj"
+            "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj": {
+              "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\IRunes\\IRunes.Models\\IRunes.Models.csproj"
             }
           }
         }

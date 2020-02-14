@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Web Basic Exam Prep\\src\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj": {}
+    "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj": {}
   },
   "projects": {
-    "D:\\C# Web Basic Exam Prep\\src\\SIS.HTTP\\SIS.HTTP.csproj": {
+    "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.HTTP\\SIS.HTTP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\src\\SIS.HTTP\\SIS.HTTP.csproj",
+        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.HTTP\\SIS.HTTP.csproj",
         "projectName": "SIS.HTTP",
-        "projectPath": "D:\\C# Web Basic Exam Prep\\src\\SIS.HTTP\\SIS.HTTP.csproj",
+        "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.HTTP\\SIS.HTTP.csproj",
         "packagesPath": "C:\\Users\\pikol\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Web Basic Exam Prep\\src\\SIS.HTTP\\obj\\",
+        "outputPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.HTTP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\C# Web Basic Exam Prep\\src\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj": {
+    "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\src\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj",
+        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj",
         "projectName": "SIS.MvcFramework.Tests",
-        "projectPath": "D:\\C# Web Basic Exam Prep\\src\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj",
+        "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.MvcFramework.Tests\\SIS.MvcFramework.Tests.csproj",
         "packagesPath": "C:\\Users\\pikol\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Web Basic Exam Prep\\src\\SIS.MvcFramework.Tests\\obj\\",
+        "outputPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.MvcFramework.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\C# Web Basic Exam Prep\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
-                "projectPath": "D:\\C# Web Basic Exam Prep\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
+              "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
+                "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
               }
             }
           }
@@ -134,14 +134,14 @@
         }
       }
     },
-    "D:\\C# Web Basic Exam Prep\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
+    "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj",
+        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj",
         "projectName": "SIS.MvcFramework",
-        "projectPath": "D:\\C# Web Basic Exam Prep\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj",
+        "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj",
         "packagesPath": "C:\\Users\\pikol\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Web Basic Exam Prep\\src\\SIS.MvcFramework\\obj\\",
+        "outputPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.MvcFramework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -160,8 +160,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\C# Web Basic Exam Prep\\src\\SIS.HTTP\\SIS.HTTP.csproj": {
-                "projectPath": "D:\\C# Web Basic Exam Prep\\src\\SIS.HTTP\\SIS.HTTP.csproj"
+              "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.HTTP\\SIS.HTTP.csproj": {
+                "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.HTTP\\SIS.HTTP.csproj"
               }
             }
           }

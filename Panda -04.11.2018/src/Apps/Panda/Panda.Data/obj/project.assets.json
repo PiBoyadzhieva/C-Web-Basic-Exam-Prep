@@ -6124,11 +6124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Panda\\Panda.Data\\Panda.Data.csproj",
+      "projectUniqueName": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Panda\\Panda.Data\\Panda.Data.csproj",
       "projectName": "Panda.Data",
-      "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Panda\\Panda.Data\\Panda.Data.csproj",
+      "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Panda\\Panda.Data\\Panda.Data.csproj",
       "packagesPath": "C:\\Users\\pikol\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Panda\\Panda.Data\\obj\\",
+      "outputPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Panda\\Panda.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

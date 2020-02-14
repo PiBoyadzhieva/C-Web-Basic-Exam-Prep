@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Web Basic Exam Prep\\src\\Apps\\Panda\\Panda.Services\\Panda.Services.csproj": {}
+    "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Panda\\Panda.Services\\Panda.Services.csproj": {}
   },
   "projects": {
-    "D:\\C# Web Basic Exam Prep\\src\\Apps\\Panda\\Panda.Data\\Panda.Data.csproj": {
+    "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Panda\\Panda.Data\\Panda.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Panda\\Panda.Data\\Panda.Data.csproj",
+        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Panda\\Panda.Data\\Panda.Data.csproj",
         "projectName": "Panda.Data",
-        "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Panda\\Panda.Data\\Panda.Data.csproj",
+        "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Panda\\Panda.Data\\Panda.Data.csproj",
         "packagesPath": "C:\\Users\\pikol\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Panda\\Panda.Data\\obj\\",
+        "outputPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Panda\\Panda.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -66,14 +66,14 @@
         }
       }
     },
-    "D:\\C# Web Basic Exam Prep\\src\\Apps\\Panda\\Panda.Services\\Panda.Services.csproj": {
+    "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Panda\\Panda.Services\\Panda.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Panda\\Panda.Services\\Panda.Services.csproj",
+        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Panda\\Panda.Services\\Panda.Services.csproj",
         "projectName": "Panda.Services",
-        "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Panda\\Panda.Services\\Panda.Services.csproj",
+        "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Panda\\Panda.Services\\Panda.Services.csproj",
         "packagesPath": "C:\\Users\\pikol\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Panda\\Panda.Services\\obj\\",
+        "outputPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Panda\\Panda.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -92,8 +92,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\C# Web Basic Exam Prep\\src\\Apps\\Panda\\Panda.Data\\Panda.Data.csproj": {
-                "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Panda\\Panda.Data\\Panda.Data.csproj"
+              "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Panda\\Panda.Data\\Panda.Data.csproj": {
+                "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Panda\\Panda.Data\\Panda.Data.csproj"
               }
             }
           }

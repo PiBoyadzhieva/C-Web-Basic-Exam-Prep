@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj": {}
+    "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj": {}
   },
   "projects": {
-    "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj": {
+    "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj",
+        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj",
         "projectName": "Musaca.Data",
-        "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj",
+        "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj",
         "packagesPath": "C:\\Users\\pikol\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Data\\obj\\",
+        "outputPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj": {
-                "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj"
+              "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj": {
+                "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj": {
+    "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj",
+        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj",
         "projectName": "Musaca.Models",
-        "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj",
+        "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj",
         "packagesPath": "C:\\Users\\pikol\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Models\\obj\\",
+        "outputPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -3112,11 +3112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Services\\Musaca.Services.csproj",
+      "projectUniqueName": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Services\\Musaca.Services.csproj",
       "projectName": "Musaca.Services",
-      "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Services\\Musaca.Services.csproj",
+      "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Services\\Musaca.Services.csproj",
       "packagesPath": "C:\\Users\\pikol\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Services\\obj\\",
+      "outputPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3135,11 +3135,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj": {
-              "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj"
+            "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj": {
+              "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj"
             },
-            "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj": {
-              "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj"
+            "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj": {
+              "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.App\\Musaca.App.csproj": {}
+    "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.App\\Musaca.App.csproj": {}
   },
   "projects": {
-    "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.App\\Musaca.App.csproj": {
+    "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.App\\Musaca.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.App\\Musaca.App.csproj",
+        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.App\\Musaca.App.csproj",
         "projectName": "Musaca.App",
-        "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.App\\Musaca.App.csproj",
+        "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.App\\Musaca.App.csproj",
         "packagesPath": "C:\\Users\\pikol\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.App\\obj\\",
+        "outputPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,17 +30,17 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj": {
-                "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj"
+              "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj": {
+                "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj"
               },
-              "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Services\\Musaca.Services.csproj": {
-                "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Services\\Musaca.Services.csproj"
+              "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Services\\Musaca.Services.csproj": {
+                "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Services\\Musaca.Services.csproj"
               },
-              "D:\\C# Web Basic Exam Prep\\src\\SIS.HTTP\\SIS.HTTP.csproj": {
-                "projectPath": "D:\\C# Web Basic Exam Prep\\src\\SIS.HTTP\\SIS.HTTP.csproj"
+              "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.HTTP\\SIS.HTTP.csproj": {
+                "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.HTTP\\SIS.HTTP.csproj"
               },
-              "D:\\C# Web Basic Exam Prep\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
-                "projectPath": "D:\\C# Web Basic Exam Prep\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
+              "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
+                "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj": {
+    "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj",
+        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj",
         "projectName": "Musaca.Data",
-        "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj",
+        "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj",
         "packagesPath": "C:\\Users\\pikol\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Data\\obj\\",
+        "outputPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -101,8 +101,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj": {
-                "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj"
+              "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj": {
+                "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj"
               }
             }
           }
@@ -141,14 +141,14 @@
         }
       }
     },
-    "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj": {
+    "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj",
+        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj",
         "projectName": "Musaca.Models",
-        "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj",
+        "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj",
         "packagesPath": "C:\\Users\\pikol\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Models\\obj\\",
+        "outputPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -199,14 +199,14 @@
         }
       }
     },
-    "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Services\\Musaca.Services.csproj": {
+    "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Services\\Musaca.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Services\\Musaca.Services.csproj",
+        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Services\\Musaca.Services.csproj",
         "projectName": "Musaca.Services",
-        "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Services\\Musaca.Services.csproj",
+        "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Services\\Musaca.Services.csproj",
         "packagesPath": "C:\\Users\\pikol\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Services\\obj\\",
+        "outputPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -225,11 +225,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj": {
-                "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj"
+              "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj": {
+                "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj"
               },
-              "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj": {
-                "projectPath": "D:\\C# Web Basic Exam Prep\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj"
+              "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj": {
+                "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj"
               }
             }
           }
@@ -264,14 +264,14 @@
         }
       }
     },
-    "D:\\C# Web Basic Exam Prep\\src\\SIS.HTTP\\SIS.HTTP.csproj": {
+    "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.HTTP\\SIS.HTTP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\src\\SIS.HTTP\\SIS.HTTP.csproj",
+        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.HTTP\\SIS.HTTP.csproj",
         "projectName": "SIS.HTTP",
-        "projectPath": "D:\\C# Web Basic Exam Prep\\src\\SIS.HTTP\\SIS.HTTP.csproj",
+        "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.HTTP\\SIS.HTTP.csproj",
         "packagesPath": "C:\\Users\\pikol\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Web Basic Exam Prep\\src\\SIS.HTTP\\obj\\",
+        "outputPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.HTTP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -322,14 +322,14 @@
         }
       }
     },
-    "D:\\C# Web Basic Exam Prep\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
+    "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj",
+        "projectUniqueName": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj",
         "projectName": "SIS.MvcFramework",
-        "projectPath": "D:\\C# Web Basic Exam Prep\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj",
+        "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.MvcFramework\\SIS.MvcFramework.csproj",
         "packagesPath": "C:\\Users\\pikol\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Web Basic Exam Prep\\src\\SIS.MvcFramework\\obj\\",
+        "outputPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.MvcFramework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -348,8 +348,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\C# Web Basic Exam Prep\\src\\SIS.HTTP\\SIS.HTTP.csproj": {
-                "projectPath": "D:\\C# Web Basic Exam Prep\\src\\SIS.HTTP\\SIS.HTTP.csproj"
+              "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.HTTP\\SIS.HTTP.csproj": {
+                "projectPath": "D:\\C# Web Basic Exam Prep\\Panda -04.11.2018\\src\\SIS.HTTP\\SIS.HTTP.csproj"
               }
             }
           }
