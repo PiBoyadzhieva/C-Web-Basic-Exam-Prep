@@ -39,7 +39,7 @@ namespace IRunes.Controllers
                 return this.Error("Price should be a positive number.");
             }
 
-
+            return this.View();
         }
 
         public HttpResponse Details()
