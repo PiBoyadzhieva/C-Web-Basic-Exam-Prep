@@ -1,4 +1,5 @@
-﻿using IRunes.ViewModels.Tracks;
+﻿using IRunes.Services;
+using IRunes.ViewModels.Tracks;
 using SIS.HTTP;
 using SIS.MvcFramework;
 
@@ -6,8 +7,19 @@ namespace IRunes.Controllers
 {
     public class TracksController : Controller
     {
+        private readonly ITracksService tracksService;
+
+        public TracksController(ITracksService tracksService)
+        {
+            this.tracksService = tracksService;
+        }
         public HttpResponse Create(string albumId)
         {
+            if (!this.IsUserLoggedIn())
+            {
+                return this.Redirect("/Users/Login");
+            }
+
             var viewModel = new CreateViewModel
             {
                 AlbumId = albumId
@@ -39,12 +51,25 @@ namespace IRunes.Controllers
                 return this.Error("Price should be a positive number.");
             }
 
-            return this.View();
+            this.tracksService.Create(input.AlbumId, input.Name, input.Link, input.Price);
+            return this.Redirect($"/Albums/Details?id={input.AlbumId}");
         }
 
-        public HttpResponse Details()
+        public HttpResponse Details(string trackId)
         {
-            return this.View();
+            if (!this.IsUserLoggedIn())
+            {
+                return this.Redirect("/Users/Login");
+            }
+
+            var viewModel = this.tracksService.GetDetails(trackId);
+
+            if (viewModel == null)
+            {
+                return this.Error("Track not found.");
+            }
+
+            return this.View(viewModel);
         }
 
     }
