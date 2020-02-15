@@ -1,8 +1,0 @@
-D:\C# Web Basic Exam Prep\Andreys\Anfreys\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.deps.json
-D:\C# Web Basic Exam Prep\Andreys\Anfreys\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.dll
-D:\C# Web Basic Exam Prep\Andreys\Anfreys\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.pdb
-D:\C# Web Basic Exam Prep\Andreys\Anfreys\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache
-D:\C# Web Basic Exam Prep\Andreys\Anfreys\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfoInputs.cache
-D:\C# Web Basic Exam Prep\Andreys\Anfreys\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
-D:\C# Web Basic Exam Prep\Andreys\Anfreys\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.dll
-D:\C# Web Basic Exam Prep\Andreys\Anfreys\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.pdb
