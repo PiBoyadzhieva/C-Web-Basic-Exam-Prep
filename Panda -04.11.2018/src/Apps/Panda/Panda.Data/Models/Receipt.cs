@@ -11,16 +11,17 @@ namespace Panda.Data.Models
         {
             this.Id = Guid.NewGuid().ToString();
         }
+
         public string Id { get; set; }
 
         public decimal Fee { get; set; }
 
-        public DateTime IssuedOn{ get; set; }
+        public DateTime IssuedOn { get; set; }
 
         [Required]
-        public string RecipientId { get; set; } //User
+        public string RecipientId { get; set; }
 
-        public virtual User Recipient { get; set; } //User
+        public virtual User Recipient { get; set; }
 
         [Required]
         public string PackageId { get; set; }

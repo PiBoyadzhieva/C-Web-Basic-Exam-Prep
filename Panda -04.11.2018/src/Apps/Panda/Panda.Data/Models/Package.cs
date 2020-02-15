@@ -16,19 +16,19 @@ namespace Panda.Data.Models
 
         [Required]
         [MaxLength(20)]
-        public string Description  { get; set; }
+        public string Description { get; set; }
 
-        public decimal Weight  { get; set; }
+        public decimal Weight { get; set; }
 
         public string ShippingAddress { get; set; }
 
         public PackageStatus Status { get; set; }
 
-        public DateTime EstimatedDeliveryDate  { get; set; }
+        public DateTime EstimatedDeliveryDate { get; set; }
 
         [Required]
-        public string RecipientId { get; set; } //User
+        public string RecipientId { get; set; }
 
-        public virtual User Recipient { get; set; }  //User
+        public virtual User Recipient { get; set; }
     }
 }

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.Text;
 
 namespace Panda.Data.Models
 {
@@ -12,14 +13,15 @@ namespace Panda.Data.Models
             this.Packages = new HashSet<Package>();
             this.Receipts = new HashSet<Receipt>();
         }
+
         public string Id { get; set; }
 
-        [MaxLength(20)]
         [Required]
+        [MaxLength(20)]
         public string Username { get; set; }
 
-        [MaxLength(20)]
         [Required]
+        [MaxLength(20)]
         public string Email { get; set; }
 
         [Required]

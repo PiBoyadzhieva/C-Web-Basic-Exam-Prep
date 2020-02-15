@@ -1,5 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Panda.Data.Models;
+using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace Panda.Data
 {
@@ -14,21 +17,18 @@ namespace Panda.Data
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(DbSettings.ConnectionString);
+
             base.OnConfiguring(optionsBuilder);
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<User>()
-                .HasMany(x => x.Packages)
-                .WithOne(x => x.Recipient)
-                .HasForeignKey(x => x.RecipientId)
+            modelBuilder.Entity<User>().HasMany(x => x.Packages)
+                .WithOne(x => x.Recipient).HasForeignKey(x => x.RecipientId)
                 .OnDelete(DeleteBehavior.Restrict);
 
-            modelBuilder.Entity<User>()
-                .HasMany(x => x.Receipts)
-                .WithOne(x => x.Recipient)
-                .HasForeignKey(x => x.RecipientId)
+            modelBuilder.Entity<User>().HasMany(x => x.Receipts)
+                .WithOne(x => x.Recipient).HasForeignKey(x => x.RecipientId)
                 .OnDelete(DeleteBehavior.Restrict);
 
             base.OnModelCreating(modelBuilder);
